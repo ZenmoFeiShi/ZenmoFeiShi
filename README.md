@@ -30,11 +30,9 @@ Quantumult X 相关配置、脚本与规则整理。
 ### [Reject-AD](https://github.com/ZenmoFeiShi/Reject-AD)
 广告拦截与规则维护相关仓库。
 
-## 📊 GitHub Stats
+## 👀 Visitors
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenmoFeiShi&show_icons=true&theme=default&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenmoFeiShi&layout=compact&theme=default&hide_border=true)
+![Visitor Count](https://count.getloli.com/@ZenmoFeiShi?name=ZenmoFeiShi&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 ## 📫 Contact
 
