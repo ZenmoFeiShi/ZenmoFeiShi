@@ -18,9 +18,6 @@
 
 ## 🧩 Featured Projects
 
-### [tg-auto-heart](https://github.com/ZenmoFeiShi/tg-auto-heart)
-基于 Telethon 的 Telegram 群组管理机器人，支持禁言、踢人、解禁、AI 总结、随机夸人等功能。
-
 ### [dm-gateway-bot](https://github.com/ZenmoFeiShi/dm-gateway-bot)
 一个偏实战向的自动化 Bot 项目，聚焦消息处理与网关能力。
 
